@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 
 class MyTestCase(unittest.TestCase):
     def test_01(self):
-        filePath = "C:\\Users\\hp\\PycharmProjects\\SeleniumpythonProject1\\Drivers\\chromedriver.exe"
+        filePath = "Drivers\chromedriver.exe"
 
         url = "https://www.google.co.in/"
 
